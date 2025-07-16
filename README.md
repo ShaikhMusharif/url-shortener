@@ -12,11 +12,11 @@ See a list of their shortened links, even after refreshing the browser
 Copy the shortened link to their clipboard in a single click
 Receive an error message when the input is invalid
 
-🌐 Technologies Used
-Spring Boot - Backend 
-JWT Token - Authenticate users
-MySQL - Database 
-React.JS - Frontend
+🌐 **Technologies Used**
+•	Spring Boot - Backend 
+•	JWT Token - Authenticate users 
+•	MySQL - Database 
+•	React.JS - Frontend
 
 🚀 **Update**
 +Dockerized Backend and Deployed to Server in Render 
