@@ -1,29 +1,34 @@
-**Linklytics**
-This is a fullstack url shortening project build with reactjs and Spring Boot
-
-**Description**
-URL Shortener is a web application that allows users to create short and easy-to-share URLs from long and complex ones. It is built with React.js for the frontend and Spring Boot for the backend. It also uses MySQL as a database service to store the URL mappings. 
-
-📦 **Features**
-
-View the optimal layout for the site depending on their device's screen size
-Shorten any valid URL
-See a list of their shortened links, even after refreshing the browser
-Copy the shortened link to their clipboard in a single click
-Receive an error message when the input is invalid
-
-🌐 **Technologies Used**
-•	Spring Boot - Backend 
-•	JWT Token - Authenticate users 
-•	MySQL - Database 
-•	React.JS - Frontend
-
-🚀 **Update**
-+Dockerized Backend and Deployed to Server in Render 
-+Deployed Database (PostgreSQL) in Neon.tech 
-+Scaled Backend & Database
-++Ongoing - Deploying Frontend in Netlify with Domain & SubDomain
-
+🔗 Linklytics
+Linklytics is a full-stack URL shortening web app built using React.js and Spring Boot. It enables users to transform long, messy URLs into sleek, easy-to-share links—complete with link tracking and persistence.
+________________________________________
+📄 Description
+Linklytics is a modern URL shortener that allows users to:
+•	Create short links from long URLs.
+•	View and manage their shortened links.
+•	Copy shortened links to the clipboard in one click.
+•	Receive live validation and error feedback.
+•	Access their links even after refreshing the browser.
+________________________________________
+⚙️ Features
+•	✅ Responsive layout across all devices
+•	🔗 URL shortening for any valid URL
+•	📋 Clipboard copy with one click
+•	💾 Persistent storage of links (even after refresh)
+•	❗ Instant error messages on invalid input
+________________________________________
+🛠️ Tech Stack
+•	🧠 Backend: Spring Boot
+•	🔐 Authentication: JWT Tokens
+•	🗄️ Database: MySQL → PostgreSQL (via Neon.tech)
+•	💻 Frontend: React.js
+________________________________________
+🚀 Updates & Deployment
+•	📦 Dockerized backend and deployed on Render
+•	🛢️ Database migrated to Neon.tech
+•	📈 Backend & database scaled for performance
+•	🌐 Frontend deployment (ongoing): Hosting on Netlify with custom domain & subdomain support
+________________________________________
 🤝 Contributing
-Contributions are welcome! Feel free to submit issues and pull requests.
+We welcome contributions from the community!
+Feel free to open issues, suggest features, or submit pull requests.
 Happy coding! 🎉
