@@ -1,6 +1,6 @@
 🧩 What is Linklytics?<br>
 Linklytics is a URL shortener web app. It helps users turn long, messy links into short and easy-to-share URLs. Plus, it remembers and manages those links even after refreshing the page.<br>
-__________________________________________________________________________________________________________________________________________________________________________<br>
+________________________________________________________________________________________________________________________________________________________<br>
 📃 What Can Users Do?<br>
 •	🔗 Create short links from long ones<br>
 •	👁️ View and manage their links<br>
@@ -19,8 +19,6 @@ ________________________________________________________________________________
 <br>
 
 <img width="1895" height="875" alt="Screenshot 2025-06-30 100856" src="https://github.com/user-attachments/assets/6b99b30a-84b6-4195-8bc1-6ac4f940c7e1" />
-<img width="518" height="548" alt="Screenshot 2025-06-30 113625" src="https://github.com/user-attachments/assets/5770a547-52ea-4ee4-888a-1ec9a3f7653f" />
-<img width="515" height="452" alt="Screenshot 2025-06-30 113633" src="https://github.com/user-attachments/assets/512235d5-e02f-44b7-9877-94c28f0b4b08" />
 <img width="1812" height="866" alt="Screenshot 2025-06-30 114105" src="https://github.com/user-attachments/assets/09295d76-da11-4568-90a9-01d4cdf544d8" />
 __________________________________________________________________________________________________________________________________________________________________________<br>
 🧪 Tech Stack:<br>
